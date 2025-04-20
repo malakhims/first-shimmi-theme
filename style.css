@@ -9,6 +9,10 @@
 	--danger-background: #FAA;
 }
 
+HTML {
+	background: url(fade.png) top center repeat-x;
+}
+
 BODY {
 	margin: 0;
 	background: #f9eeff url(fade.png) top center repeat-x;
